@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aoora69
-- 👀 I’m interested in python programming,Machine learning, Artificial intelligence.
-- 🌱 I’m currently learning BE Electronics and telecommunication.
-- 💞️ I’m looking to collaborate on Machine learning projects.
+- 👀 I’m interested in python programming,java and Embedded designs.
+- 🌱 I’m currently learning Btech Electronics and telecommunication.
+- 💞️ I’m looking to collaborate on some ECE projects.
 
 
 <!---
